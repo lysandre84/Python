@@ -18,7 +18,7 @@
  Script     : Matrice_Multiplication.py
  Auteur     : Lysius
  Date       : 16/05/2024
- Description: 
+ Description: Effectuer la multiplication de deux matrices 2×2
 =====================================================================================================================================================
 """
 import numpy as np

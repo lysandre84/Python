@@ -18,7 +18,7 @@
  Script     : Décomposition_d'un_signal_carré.py
  Auteur     : Lysius
  Date       : 01/12/2024
- Description: 
+ Description: Décompose un signal carré
 =====================================================================================================================================================
 """
 import numpy as np

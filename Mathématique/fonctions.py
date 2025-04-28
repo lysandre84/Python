@@ -18,7 +18,8 @@
  Script     : fonctions.py
  Auteur     : Lysius
  Date       : 27/04/2023
- Description: 
+ Description: Ce petit script en Python résout une équation du second degré de la forme ("ax^2+bx+c=0") en demandant à l’utilisateur de saisir les coefficients 
+              a, b et c, puis en calculant le discriminant pour déterminer les solutions réelles.
 =====================================================================================================================================================
 """
 from math import *

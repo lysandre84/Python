@@ -18,7 +18,7 @@
  Script     : Analyse_Distribution.py
  Auteur     : Lysius
  Date       : 14/03/2023
- Description: 
+ Description: Illustre la génération et l’affichage d’un histogramme pour une loi normale centrée réduite (moyenne 0, écart-type 1)
 =====================================================================================================================================================
 """
 import numpy as np

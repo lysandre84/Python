@@ -18,7 +18,7 @@
  Script     : Loi_Binomiale.py
  Auteur     : Lysius
  Date       : 19/09/2024
- Description: 
+ Description: Génère et affiche un histogramme représentant la distribution binomiale pour un nombre d’essais fixe
 =====================================================================================================================================================
 """
 import numpy as np

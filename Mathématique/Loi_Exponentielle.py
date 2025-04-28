@@ -18,7 +18,7 @@
  Script     : Loi_Exponentielle.py
  Auteur     : Lysius
  Date       : 01/12/2024
- Description: 
+ Description: génère et affiche un histogramme d’échantillons tirés selon une loi exponentielle de paramètre 𝜆=1.5
 =====================================================================================================================================================
 """
 import numpy as np

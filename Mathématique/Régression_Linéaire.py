@@ -18,7 +18,7 @@
  Script     : Régression_Linéaire.py
  Auteur     : Lysius
  Date       : 07/05/2024
- Description: 
+ Description: Simuler des données, ajuster un modèle de régression linéaire avec Scikit-Learn
 =====================================================================================================================================================
 """
 import numpy as np

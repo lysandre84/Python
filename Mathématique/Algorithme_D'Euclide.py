@@ -18,7 +18,7 @@
  Script     : Algorithme_D'Euclide.py
  Auteur     : Lysius
  Date       : 14/03/2023
- Description: 
+ Description: Implémente la version itérative de l’algorithme d’Euclide pour calculer le PGCD (Plus Grand Commun Diviseur) de deux entiers
 =====================================================================================================================================================
 """
 def pgcd(a, b):

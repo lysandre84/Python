@@ -18,7 +18,7 @@
  Script     : presentation.py
  Auteur     : Lysius
  Date       : 11/02/2024
- Description: 
+ Description: Met en place une mini-application de type “terminal” pour faire défiler des diapositives (slides) en mode plein écran, avec Pygame. Chaque slide affiche un bloc de texte vert sur fond noir, précédé d’un prompt de style console, et un bouton $ en bas à droite permet de passer à la diapositive suivante.
 =====================================================================================================================================================
 """
 import pygame

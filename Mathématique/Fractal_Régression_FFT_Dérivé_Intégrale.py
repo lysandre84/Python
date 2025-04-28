@@ -18,7 +18,7 @@
  Script     : Fractal_Régression_FFT_Dérivé_Intégrale.py
  Auteur     : Lysius
  Date       : 28/11/2024
- Description: 
+ Description: Mélange deux volets très différents : un exemple de régression logistique en machine learning et la définition d’une fonction de calcul de la fractale de Mandelbrot.
 =====================================================================================================================================================
 """
 import numpy as np

@@ -18,7 +18,7 @@
  Script     : Séries_Fourier.py
  Auteur     : Lysius
  Date       : 09/08/2024
- Description: 
+ Description: illustre l’approximation d’une fonction créneau périodique (période 2𝜋) par sa série de Fourier, et compare la forme idéale au développement tronqué avec différents nombres de termes impairs.
 =====================================================================================================================================================
 """
 import numpy as np

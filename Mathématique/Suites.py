@@ -18,7 +18,7 @@
  Script     : Loi_Exponentielle.py
  Auteur     : Lysius
  Date       : 14/10/2023
- Description: 
+ Description: Permet à l’utilisateur de saisir une valeur de résistance (entre 1 Ω et 10 Ω) et de lui trouver, dans deux séries normalisées de résistances (E12 et E24), la valeur cataloguée la plus proche.
 =====================================================================================================================================================
 """
 import math
